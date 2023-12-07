@@ -1,4 +1,4 @@
-# Letterboxd - Clone 🎬
+# Letterboxd - Remake 🎬
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nyelk/letterboxd?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nyelkk/letterboxd?style=for-the-badge)
