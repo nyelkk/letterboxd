@@ -11,8 +11,8 @@
 
 Projeto não completo, pretendo adicionar algumas coisas ainda. 
 
-- `(Rascunho)`
-- `(Rascunho)`
+- `Login e Cadastro (ambos sem validação).`
+- `Os filmes da Home levam o usuário para o IMDB.`
 
 
 ## 🚀 Informações sobre responsividade:
