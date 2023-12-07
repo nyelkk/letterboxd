@@ -9,7 +9,7 @@
 
 ## 💻 Funcionalidades
 
-Projeto não completo, pretendo adicionar muitas coisas ainda. 
+Projeto não completo, pretendo adicionar algumas coisas ainda. 
 
 - `(Rascunho)`
 - `(Rascunho)`
@@ -17,7 +17,7 @@ Projeto não completo, pretendo adicionar muitas coisas ainda.
 
 ## 🚀 Informações sobre responsividade:
 
-- `WebSite não responsivo.`
+- `WebSite funcionando corretamente apenas na versão de Desktop.`
 
 ## ☕ Tecnologias Exploradas nesse Site:
 <br>
